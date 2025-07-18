@@ -6,7 +6,7 @@ A beautifully designed responsive landing page for a fictional café, built usin
 ---
 
 ## 🌐 Live Demo
-https://aditya-9944.github.io/Cafe/
+https://aditya-9944.github.io/Cafe-website/
 
 ---
 

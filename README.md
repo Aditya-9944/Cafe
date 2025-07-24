@@ -24,7 +24,7 @@ https://aditya-9944.github.io/Cafe-website/
 
 - HTML5
 - CSS3
-- JavaScript (Vanilla)
+- JavaScript
 
 ---
 
